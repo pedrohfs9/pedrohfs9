@@ -3,14 +3,12 @@
 <br/>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohfs9&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfs9&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&hide_border=false"/>
+</div>
 
-  <a href="https://github-readme-stats.vercel.app/api?username=pedrohfs9&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrohfs9&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&v=1"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfs9&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&hide_border=false">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfs9&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&hide_border=false&v=1"/>
-  </a>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrohfs9&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </div>
 
 <br/>
