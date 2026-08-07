@@ -2,17 +2,12 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img width="495" src="https://github-readme-stats-wine-one-90.vercel.app/api?username=pedrohfs9&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-    </td>
-    <td align="center" valign="middle">
-      <img width="495" src="https://github-readme-stats-wine-one-90.vercel.app/api/top-langs/?username=pedrohfs9&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117"/>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img width="495" src="https://github-readme-stats-wine-one-90.vercel.app/api?username=pedrohfs9&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+</div>
+<div align="center">
+  <img width="495" src="https://github-readme-stats-wine-one-90.vercel.app/api/top-langs/?username=pedrohfs9&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117"/>
+</div>
 <div align="center">
   <img width="495" src="https://streak-stats.demolab.com?user=pedrohfs9&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </div>
