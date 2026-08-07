@@ -8,6 +8,7 @@
   <img width=495 src="https://streak-stats.demolab.com?user=pedrohfs9&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </div>
 <br/>
+
 ## 🚀 Tecnologias
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <br/>
+
 ## 📬 Contato
 <div align="center">
   <a href="mailto:pedrohferreira005@gmail.com">
