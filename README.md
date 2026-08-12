@@ -1,4 +1,9 @@
-## Olá! Eu sou Pedro Henrique 👋
+## Hi there! I'm Pedro Henrique 👋
+
+🌎 Based in Recife, Brazil | Computer Science Undergraduate
+
+Passionate about data engineering, machine learning, research, data science and Pyhton!
+
 <br/>
 <div align="center">
   <img width="495" src="https://github-readme-stats-wine-one-90.vercel.app/api?username=pedrohfs9&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true"/>
@@ -9,15 +14,17 @@
 </div>
 <br/>
 
-## 🚀 Tecnologias
+## 🚀 Technologies and tools
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 <br/>
 
-## 📬 Contato
+## 📬 Contact
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohferreira005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
